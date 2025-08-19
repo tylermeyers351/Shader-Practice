@@ -96,10 +96,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _AccumulationSize: 5
+    - _Accumulation_Tolerance: 0
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _Amount: 1
+    - _Amount: 0
     - _Blend: 64
     - _BlendModePreserveSpecular: 1
     - _BlendOp: 0
@@ -116,9 +117,10 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _Height: 0.025
     - _Metallic: 0
-    - _NoiseSize: 500
-    - _NoiseStrength: 1
+    - _NoiseSize: 200
+    - _NoiseStrength: 0.25
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
@@ -127,7 +129,7 @@ Material:
     - _SampleGI: 0
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
-    - _SoftEdgeDistance: 0.015
+    - _SoftEdgeDistance: 0.005
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
