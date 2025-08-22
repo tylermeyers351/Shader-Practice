@@ -127,15 +127,15 @@ Material:
     - _RefractionStrength: 0.365
     - _RefractionWaveSize: 10.79
     - _SecondaryRefractionWaveSize: 6.3
-    - _Smoothness: 0.5
+    - _Smoothness: 0.153
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
-    - _WaveAmplitude: 0.5
-    - _WaveFrequency: 0.13
-    - _WaveSpeed: 0.19
+    - _WaveAmplitude: 2
+    - _WaveFrequency: 1
+    - _WaveSpeed: 1
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
@@ -148,6 +148,7 @@ Material:
     - _RefractionSpeed: {r: 0.1, g: 0.25, b: 0, a: 0}
     - _ShallowColor: {r: 0, g: 0.9902081, b: 1, a: 0.68235296}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _SpecularColor: {r: 0.6509434, g: 0.6509434, b: 0.6509434, a: 0}
     - _WaveDirection: {r: 0.5, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
